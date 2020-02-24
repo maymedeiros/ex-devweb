@@ -1,0 +1,46 @@
+body {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight: bolder;
+}
+table {
+  border-collapse: collapse;
+  width: 50em;
+  border: 7px solid #DCDCDC;
+}
+tr:hover {
+  background-color: #3d80df;
+  color: red;
+}
+thead tr:hover {
+  background-color: #3d80df;
+  color: red;
+}
+/*cabeçalho linha*/
+thead th{
+  background: #DCDCDC;
+  color: #87CEEB;
+  border-bottom: 1px solid #000000; 
+}	
+/*Primeira coluna*/
+td:first-child { 
+    background-color: #0000ff/*azul*/;
+    color: #DCDCDC /*cinza*/;
+}
+
+tr:nth-child(2n+2) /*segunda linha num agrupamento de 2 linhas*/{
+    background-color: #4682B4; 
+}
+tr:last-child /*ultima linha*/{
+    background-color: #0000ff; 
+    color: #DCDCDC /*cinza*/;
+    border-right: transparent;
+}
+tr:nth-child(1) /*segunda linha*/{
+    background-color: #0000ff; 
+    border-right: transparent;
+    color: #DCDCDC /*cinza*/;
+}
+tr{
+	border-right: #000000;
+	border-bottom: #000000;
+}
