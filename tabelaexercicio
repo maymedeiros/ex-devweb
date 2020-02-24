@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="css/styles.css">
+<body>
+<table width="480" border="5px" >
+    <thead>
+        <tr>
+            <th colspan="7" align="right" height="40">Quadro de horário</th>
+        </tr>
+    </thead>
+    <tr>
+        <!-- Aqui também usamos o width para definir a largura e o height para definir   a altura -->
+        <td width="20" height="40">Horário</td>
+        <td width="40">Segunda</td>
+        <td width="40">Terça</td>
+        <td width="40">Quarta</td>
+        <td width="40">Quinta</td>
+        <td width="40">Sexta</td>
+        <td width="40">Sábado</td>
+    </tr>
+    <tr>
+        <td height="40">17:20</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td height="40">18:10</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td height="40">19:00</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td height="40">19:50</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td height="60">20:40</td>
+        <td>Intervalo</td>
+        <td>Intervalo</td>
+        <td>Intervalo</td>
+        <td>Intervalo</td>
+        <td>Intervalo</td>
+        <td>Intervalo</td>
+    </tr>
+    <tr>
+        <td height="40">20:50</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td height="40">21:40</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td height="60">22:30</td>
+        <td>Termino</td>
+        <td>Termino</td>
+        <td>Termino</td>
+        <td>Termino</td>
+        <td>Termino</td>
+        <td>Termino</td>
+    </tr>
+    <tr>
+        <td width="20" height="40">Horário</td>
+        <td width="40">Segunda</td>
+        <td width="40">Terça</td>
+        <td width="40">Quarta</td>
+        <td width="40">Quinta</td>
+        <td width="40">Sexta</td>
+        <td width="40">Sábado</td>
+    </tr>
+</table>
+</body>
+</html>
